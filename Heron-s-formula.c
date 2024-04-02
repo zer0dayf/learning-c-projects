@@ -16,5 +16,5 @@ int main(void)
 	printf("Enter the sides of triangle : \n");
 	scanf("%d %d %d",&a,&b,&c);
 	area(a,b,c);
-	
+	return(0);
 }
